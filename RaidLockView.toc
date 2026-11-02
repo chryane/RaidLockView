@@ -1,0 +1,13 @@
+## Interface: 38002
+## Title: RaidLockView
+## Notes: 账号内所有角色 x 团队副本锁定进度一览表（泰坦重铸专用）。|n小地图图标或 /rlv 打开面板。
+## Author: Raee
+## Version: 1.2.1
+## SavedVariables: RaidLockViewDB
+## IconTexture: Interface\AddOns\RaidLockView\media\icon
+
+Localization.lua
+Data.lua
+Core.lua
+UI.lua
+Options.lua
